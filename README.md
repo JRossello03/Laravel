@@ -18,6 +18,10 @@
 
 `sail up -d`
 
+:memo: **Nota:** En el caso de que no tengamos la interfaz de comandos de Sail ejecutamos:
+
+`./vendor/bin/sail up -d`
+
 ### Ejecutar comandos de laravel usando Sail
 
 :memo: **Nota:** Solo podremos ejecutar estos comandos si previamente hemos ejecutado el comando que habilita la interfaz de comandos de Sail
